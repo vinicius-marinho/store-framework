@@ -17,7 +17,6 @@
               "hideUnavailableItems": true,
               "maxItemsPerPage": 8,
               "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
                 "queryField": "Blue Top Retro Camera"
               }
           }
