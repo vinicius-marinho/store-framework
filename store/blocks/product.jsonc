@@ -41,7 +41,6 @@
       "children": [
         "sku-selector",
         "product-quantity",
-        "shipping-simulator"
       ]
     },
     "product-images": {
