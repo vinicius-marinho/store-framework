@@ -25,9 +25,10 @@
     },
     "accepted-payment-methods": {
         "props": {
-          "paymentMethods": ["MasterCard", "Visa", "Diners Club"]
-        },
-        "showInColor": true
+          "paymentMethods": ["MasterCard", "Visa", "Diners Club"],
+          "showInColor": true
+        }
+        
     },
     "flex-layout.col#footer-right-desktop": {
         "children": [
